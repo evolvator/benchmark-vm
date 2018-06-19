@@ -5,7 +5,19 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "async": "^2.6.1",
     "benchmark": "^2.1.4",
-    "travis-benchmark": "^0.0.6"
+    "is": "^3.2.1",
+    "is-array": "^1.0.1",
+    "is-boolean": "0.0.2",
+    "is-function": "^1.0.1",
+    "is-null": "^1.0.1",
+    "is-number": "^6.0.0",
+    "is-object": "^1.0.1",
+    "is-string": "^1.0.4",
+    "is-undefined": "^1.0.9",
+    "lodash": "^4.17.10",
+    "travis-benchmark": "^0.0.6",
+    "underscore": "^1.9.1"
   }
 }
