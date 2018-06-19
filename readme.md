@@ -2,7 +2,7 @@
 
 What is the difference in speed for type checking methods.
 
-[![Build Status](https://travis-ci.org/evolvator/benchmark-type-checking.svg?branch=master)](https://travis-ci.org/evolvator/benchmark-built-in-operations)
+[![Build Status](https://travis-ci.org/evolvator/benchmark-type-checking.svg?branch=master)](https://travis-ci.org/evolvator/benchmark-type-checking)
 
 [Executable code](https://github.com/evolvator/benchmark-type-checking/tree/code)
 
