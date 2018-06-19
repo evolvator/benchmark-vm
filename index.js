@@ -1,6 +1,5 @@
 var Benchmark = require('benchmark');
 var tb = require('travis-benchmark');
-
 var async = require('async');
 
 var is = require('is');
