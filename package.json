@@ -17,7 +17,7 @@
     "is-string": "^1.0.4",
     "is-undefined": "^1.0.9",
     "lodash": "^4.17.10",
-    "travis-benchmark": "^0.0.6",
+    "travis-benchmark": "^0.1.0",
     "underscore": "^1.9.1"
   }
 }
