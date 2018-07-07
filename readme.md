@@ -1,6 +1,6 @@
 # benchmark-vm
 
-What is the difference between vm realizations.
+What is the difference between vm realizations?
 
 [![Build Status](https://travis-ci.org/evolvator/benchmark-vm.svg?branch=master)](https://travis-ci.org/evolvator/benchmark-vm)
 
