@@ -2,7 +2,7 @@
 
 What is the difference between vm realizations?
 
-[![Build Status](https://travis-ci.org/evolvator/benchmark-vm.svg?branch=master)](https://travis-ci.org/evolvator/benchmark-vm)
+[![Build Status](https://travis-ci.org/evolvator/benchmark-vm.svg?branch=code)](https://travis-ci.org/evolvator/benchmark-vm)
 
 [Executable code](https://github.com/evolvator/benchmark-vm/tree/code)
 
